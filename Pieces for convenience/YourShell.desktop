@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=YourShell
+Comment=Кастомная Linux-панель и рабочий стол
+Exec=/usr/bin/yourshell
+Icon=/usr/share/icons/hicolor/64x64/apps/yourshell.svg
+Type=Application
+Categories=Utility;System;DesktopEnvironment;
