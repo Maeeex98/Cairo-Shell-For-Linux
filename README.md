@@ -124,6 +124,10 @@ gcc src/*.c `pkg-config --cflags --libs gtk4 webkit2gtk-4.0` -o yourshell
 - Maeeex98 - **[license](https://github.com/Maeeex98/Cairo-Shell-For-Linux/blob/main/LICENSE)**
 
 ---
+## Политика безопасности
+---
+- Maeeex98 - **[Security policy](https://github.com/Maeeex98/Cairo-Shell-For-Linux/blob/main/SECURITY.md)**
+
 # **🫂** Отдельная **благодарность**:
 
 **ChatGPT 3.5** - За идею
